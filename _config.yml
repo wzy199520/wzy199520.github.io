@@ -23,7 +23,7 @@ repository               : "wzy199520/wzy199520.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "zhiyingwu.png"
+  avatar           : "wzy.jpg"
   name             : "Zhiying Wu"
   pronouns         : "she/her"  
   bio              : "Short biography for the left-hand sidebar"
